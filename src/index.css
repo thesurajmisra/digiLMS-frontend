@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.auth-back{
+  background: url(images/back.png) no-repeat;
+  height: 100vh;
+}
+.makeStyles-card-13 {
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px !important;
+}
+
+.underline__post {
+  border-bottom: 3px solid #ffcd39;
+}
+
+.underline__post span {
+  color: #ffcd39;
+}
+
+.form-control {
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+a {
+  text-decoration: none;
+}
+
+.MuiFilledInput-underline:before {
+  border-bottom: 1px solid rgb(230 218 218 / 42%) !important;
+}
+
+.MuiFilledInput-root {
+  background-color: rgb(175 175 175 / 13%) !important;
+}
+
+.btn{
+  color: #ffff !important;
+}
